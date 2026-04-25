@@ -23,7 +23,7 @@ I enjoy building things from the ground up — whether that's backend systems, c
 | [ComputationalPhoto-FinalProject](https://github.com/ChristianFontanez/ComputationalPhoto-FinalProject) | Final project for Computational Photography — image processing & computer vision techniques | Python |
 | [ComputationalPhoto-MP2](https://github.com/ChristianFontanez/ComputationalPhoto-MP2) | Computational Photography mini project focusing on image manipulation | Python |
 | [Java-Snake](https://github.com/ChristianFontanez/Java-Snake) | Classic Snake game built in Java | Java |
-| [gitlab-cicd-crash-course](https://github.com/ChristianFontanez/gitlab-cicd-crash-course) | Hands-on GitLab CI/CD pipeline work from DevOps coursework | YAML / Bash |
+| [ComputationalPhoto-Assignment4](https://github.com/ChristianFontanez/ComputationalPhoto-Assignment4) | Image blending techniques implemented with OpenCV — written from scratch | Python / OpenCV |
 
 ---
 
