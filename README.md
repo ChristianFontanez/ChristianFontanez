@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hey, I'm Christian Fontanez 👋
 
-<!--
-**ChristianFontanez/ChristianFontanez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Junior at **Rollins College** | Incoming SWE Intern @ **Versant Media** (Summer 2026)
 
-Here are some ideas to get you started:
+I enjoy building things from the ground up — whether that's backend systems, computer vision pipelines, or DevOps infrastructure. I like clean code, well-documented projects, and solving problems that actually matter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+
+**Languages**
+`Java` `Python` `C` `JavaScript` `Bash`
+
+**Tools & Platforms**
+`Git` `GitLab CI/CD` `Docker` `Linux` `Vue.js` `.NET`
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [ComputationalPhoto-FinalProject](https://github.com/ChristianFontanez/ComputationalPhoto-FinalProject) | Final project for Computational Photography — image processing & computer vision techniques | Python |
+| [ComputationalPhoto-MP2](https://github.com/ChristianFontanez/ComputationalPhoto-MP2) | Computational Photography mini project focusing on image manipulation | Python |
+| [Java-Snake](https://github.com/ChristianFontanez/Java-Snake) | Classic Snake game built in Java | Java |
+| [gitlab-cicd-crash-course](https://github.com/ChristianFontanez/gitlab-cicd-crash-course) | Hands-on GitLab CI/CD pipeline work from DevOps coursework | YAML / Bash |
+
+---
+
+### 📊 GitHub Stats
+
+![Christian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChristianFontanez&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianFontanez&layout=compact&hide_border=true&theme=default)
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian%20Fontanez-blue?style=flat&logo=linkedin)](https://linkedin.com/in/christianfontanez)
+
+---
+
+*Currently preparing for my internship at Versant Media — brushing up on Vue.js, TypeScript, and modern .NET. Always open to connecting with other developers.*
